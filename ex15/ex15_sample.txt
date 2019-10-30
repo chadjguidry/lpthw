@@ -1,0 +1,5 @@
+This is my Exercise 15 sample file.
+
+The script should open it, read it, and print its content to the console.
+
+I wonder if it worked?
